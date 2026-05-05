@@ -1,5 +1,3 @@
-#from jax.scipy.integrate import trapezoid
-import jax
 import jax.numpy as jnp
 from quadax import simpson, trapezoid
 
